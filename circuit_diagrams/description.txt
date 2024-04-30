@@ -1,0 +1,5 @@
+here's all the circuit Diagrams involving the following components:
+555 timers (NE555/ SA555)
+A3144 Hall effect Sensor
+Relay Modules
+BJTs (BC547 / BC557)
